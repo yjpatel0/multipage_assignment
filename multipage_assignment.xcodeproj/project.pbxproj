@@ -16,6 +16,7 @@
 		8BFEF5272B772649002901D7 /* multipage_assignmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BFEF5262B772649002901D7 /* multipage_assignmentTests.swift */; };
 		8BFEF5312B772649002901D7 /* multipage_assignmentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BFEF5302B772649002901D7 /* multipage_assignmentUITests.swift */; };
 		8BFEF5332B772649002901D7 /* multipage_assignmentUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BFEF5322B772649002901D7 /* multipage_assignmentUITestsLaunchTests.swift */; };
+		8BFEF5402B772E6B002901D7 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BFEF53F2B772E6B002901D7 /* NewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8BFEF52C2B772649002901D7 /* multipage_assignmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = multipage_assignmentUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BFEF5302B772649002901D7 /* multipage_assignmentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = multipage_assignmentUITests.swift; sourceTree = "<group>"; };
 		8BFEF5322B772649002901D7 /* multipage_assignmentUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = multipage_assignmentUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8BFEF53F2B772E6B002901D7 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8BFEF5112B772648002901D7 /* SceneDelegate.swift */,
 				8BFEF5132B772648002901D7 /* ViewController.swift */,
 				8BFEF5152B772648002901D7 /* Main.storyboard */,
+				8BFEF53F2B772E6B002901D7 /* NewViewController.swift */,
 				8BFEF5182B772648002901D7 /* Assets.xcassets */,
 				8BFEF51A2B772648002901D7 /* LaunchScreen.storyboard */,
 				8BFEF51D2B772648002901D7 /* Info.plist */,
@@ -261,6 +264,7 @@
 				8BFEF5142B772648002901D7 /* ViewController.swift in Sources */,
 				8BFEF5102B772648002901D7 /* AppDelegate.swift in Sources */,
 				8BFEF5122B772648002901D7 /* SceneDelegate.swift in Sources */,
+				8BFEF5402B772E6B002901D7 /* NewViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
